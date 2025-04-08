@@ -1,1 +1,1 @@
-echo 'web : gunicorn student.wegi' > Procfile
+echo 'web : gunicorn student.wsgi' > Procfile
